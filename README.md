@@ -47,7 +47,7 @@ Python ROS node
 
 gorev_alani.world : Bu dünya simülasyona eklediğim şekillerle birlikte açılır.
 
-roslaunch gazebo_ros empty_world.launch world_name:=/home/kullanici_adiniz/.../proje_final.world
+roslaunch gazebo_ros empty_world.launch world_name:=/home/kullanici_adiniz/.../gorev_alani.world
 
 Not: Lütfen /home/ dizinini kendi sisteminize göre güncelleyin.
 <img width="604" height="554" alt="gorev_alani world" src="https://github.com/user-attachments/assets/e56b5a01-cdd7-4774-8776-6a90f31d53cf" />
