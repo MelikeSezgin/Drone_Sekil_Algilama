@@ -5,9 +5,9 @@ ROS Noetic ve Gazebo 11 kullanılarak geliştirilen otonom drone görev simülas
 
 🟦 Mavi Altıgen tespit edilince: hedefi stabil ortalar, ardından 3 metreye alçalır, 5 saniye bekler, tekrar 10 metreye çıkar ve aramaya devam eder.
 
-Algılama: HSV renk filtresi + kontur analizi + köşe sayısı (triangle/hexagon)
+Algılama: HSV renk filtresi + kontur analizi
 
-Kontrol: DroneKit + MAVLink velocity komutları ile visual servo merkezleme.
+Kontrol: DroneKit + MAVLink velocity komutları ile visual servo merkezleme
 .
 
 ### 🎯 Görev Senaryosu (Özet)
